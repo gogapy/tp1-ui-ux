@@ -1,1 +1,0 @@
-# gogapy.github.io
